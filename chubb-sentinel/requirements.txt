@@ -1,0 +1,14 @@
+pandas
+scikit-learn
+xgboost
+shap
+streamlit
+plotly
+imbalanced-learn
+joblib
+pytesseract
+Pillow
+matplotlib
+google-generativeai
+transformers
+torch
